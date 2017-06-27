@@ -27,9 +27,11 @@ def crawl(url):
         print "正在下载%s。。。"% x
         x += 1  # 递增 python没有x++
 
+#crawl(url)
 for page in range(1,4):
     url = 'http://www.dbmeinv.com/?pager_offset=%s'%page
     crawl(url)
 print "下载完毕。。。。"
 
-crawl(url)
+
+

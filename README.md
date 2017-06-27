@@ -3,6 +3,8 @@
 
 python爬虫小例子
 
+csdn博客 http://blog.csdn.net/qq_29232943/article/details/73824465
+
 安装环境
 pycharm 
 python2.7
