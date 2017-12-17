@@ -1,7 +1,7 @@
 # PythonPractice
 学习Python的练习demo
 python 还是很好玩的，刚开始在python2.7写的，后来用的python3.6
-用anaconda特别好用
+anaconda特别好用
 
 
 python爬虫小例子
