@@ -25,8 +25,10 @@ x = 'runoob'
 sys.stdout.write(x + '\n')
 
 
-def hello():
-    return "hello world"
 
-if __name__== "main":
-    print hello()
+def hello():
+    name = input()
+    print("hello ", name)
+
+if __name__== "__main__":
+     hello()
